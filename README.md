@@ -16,7 +16,7 @@ Lets disrupt the web for your business's digital growth! 🚀
 <summary>👨‍💻 Where I feel like home</summary>
 <br />
 
-![top technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=Hensga&layout=compact)
+![Top technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=Hensga&layout=compact)
 
 </details>
 
