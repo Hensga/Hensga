@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<details>
+<summary>👨‍💻 Where I feel like home</summary>
+<br />
+
+![top technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=Hensga&layout=compact)
+
+</details>
 
 [![👨‍💻 Some of my stats](https://github-readme-stats.vercel.app/api?username=Hensga)](https://github.com/anuraghazra/github-readme-stats)
 
