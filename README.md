@@ -3,7 +3,10 @@
 Your code sidekick. Elevating your digital presence with webdesign, shopify, and beyond.<br />
 Lets disrupt the web for your business's digital growth! 🚀
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+<a href="https://www.linkedin.com/in/henning-huth-a2890512a/"
+  <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+</a>
+
 
 <details>
 <summary>👨‍💻 Where I feel like home</summary>
