@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hej, I am Henning <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="24px" height="24px" alt="waveing"
+
+Your code sidekick. Elevating your digital presence with webdesign, shopify, and beyond.<br />
+Lets disrupt the web for your business's digital growth! 🚀
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/hotpink" />
 
 <details>
 <summary>👨‍💻 Where I feel like home</summary>
@@ -8,19 +13,3 @@
 
 </details>
 
-[![👨‍💻 Some of my stats](https://github-readme-stats.vercel.app/api?username=Hensga)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**Hensga/Hensga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
